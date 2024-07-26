@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
 let BackgroundInterval;
 
@@ -37,3 +38,6 @@ document.addEventListener("scroll", (e) => {
 document.getElementById("current-year").textContent = new Date().getFullYear();
 
 */
+=======
+# smarttest
+>>>>>>> d6413feb6a3d8c0ca612a31280610ae22ccb1576
